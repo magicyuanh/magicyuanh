@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Yuan
 
-<!--
-**magicyuanh/magicyuanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Solution Architect
 
-Here are some ideas to get you started:
+20 Years of Construction Engineering Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building Enterprise AI Applications with RAG, Knowledge Graph and Agent.
+
+---
+
+## 🚀 Featured Projects
+
+- 🧠 MilDoc Enterprise AI Knowledge Platform *(Coming Soon)*
+- 🏗 HVAC Knowledge Graph RAG
+- 📚 RAG Architect Course
+- 🤖 Enterprise AI Playground
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- FastAPI
+- Flask
+- LangChain
+- LangGraph
+- Milvus
+- Neo4j
+- Docker
+- Qwen
+- DeepSeek
+- Langfuse
+- Ragas
+
+---
+
+## 🌱 Currently Working On
+
+- Enterprise AI Knowledge Platform
+- Multi-Agent Architecture
+- Industrial AI Applications
+- RAG Evaluation & Observability
