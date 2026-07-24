@@ -10,7 +10,7 @@ Building Enterprise AI Applications with RAG, Knowledge Graph and Agent.
 
 ## 🚀 Featured Projects
 
-- 🧠 MilDoc Enterprise AI Knowledge Platform *(Coming Soon)*
+- 🧠 DocRAG Enterprise AI Knowledge Platform *(Coming Soon)*
 - 🏗 HVAC Knowledge Graph RAG
 - 📚 RAG Architect Course
 - 🤖 Enterprise AI Playground
