@@ -95,6 +95,24 @@ Features
 - Enterprise QA
 
 ---
+## Dual-Extract-MCP
+
+Dual-path Document Extraction MCP Server (MinerU + Qwen3-VL)
+
+Features
+
+- MinerU Text Route
+- Qwen3-VL Vision Route
+- Fusion Adjudication
+- Table Extraction (Cross-page)
+- Formula Extraction
+- Document Inspection
+- Output Validation
+- Health Check
+
+---
+
+
 
 ## AI Course
 
