@@ -5,6 +5,7 @@ AI Solution Architect | Enterprise RAG | Knowledge Graph | AI Infrastructure
 
 专注企业级 AI 知识库、RAG、Agent、LLM 应用落地。
 
+CCAR - F
 20+ years in Engineering.
 Currently focusing on Enterprise AI, RAG Systems, Knowledge Graphs and LLM Applications.
 
